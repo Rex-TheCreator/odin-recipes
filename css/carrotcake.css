@@ -1,0 +1,30 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(173, 119, 53);
+}
+h1 {
+    color: rgb(171, 1, 72);
+    font-size: 75px;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(44, 44, 44);
+}
+.info,
+li  {
+    text-align: left;
+    color: rgb(18, 105, 76);
+    font-size: 20px;
+}
+.info.head {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: brown;
+    background-color: bisque;
+}
+a {
+    color: rgb(85, 4, 4);
+    font-size: 30px;
+}
