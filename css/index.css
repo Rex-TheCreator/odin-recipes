@@ -1,19 +1,15 @@
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    background-color: rgb(173, 119, 53);
+    background-color: rgb(44, 44, 44);
 }
 h1 {
-    color: rgb(114, 255, 180);
+    color: rgb(0, 208, 255);
     font-size: 100px;
     font-weight: bold;
 }
 li {
-    color: blueviolet;
+    color: rgb(0, 131, 154);
     font-size: 35px;
     text-align: left;
-}
-p {
-    font-size: 25px;
-    font-weight: bold;
 }

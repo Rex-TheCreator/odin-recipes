@@ -24,6 +24,9 @@ li  {
     color: brown;
     background-color: bisque;
 }
+.homepage {
+    color: rgb(0, 208, 255);
+}
 a {
     color: rgb(85, 4, 4);
     font-size: 30px;
