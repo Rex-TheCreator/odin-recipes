@@ -1,28 +1,28 @@
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    background-color: rgb(173, 119, 53);
+    background-color: rgb(44, 44, 44);
 }
 h1 {
-    color: rgb(171, 1, 72);
+    color: rgb(210, 123, 0);
     font-size: 75px;
 }
 p {
     font-size: 20px;
     font-weight: bold;
-    color: rgb(44, 44, 44);
+    color: rgb(182, 117, 25);
 }
 .info,
 li  {
     text-align: left;
-    color: rgb(18, 105, 76);
+    color: rgb(199, 148, 77);
     font-size: 20px;
 }
 .info.head {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
-    color: brown;
-    background-color: bisque;
+    color: rgb(224, 156, 61);
+    background-color: rgb(110, 64, 0);
 }
 .homepage {
     color: rgb(0, 208, 255);
