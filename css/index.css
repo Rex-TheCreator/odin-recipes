@@ -9,13 +9,23 @@ h1 {
     font-weight: bold;
 }
 .button {
+    display: inline-block;
     color: rgb(0, 131, 154);
     background-color: rgb(24, 24, 24);
     padding: 20px;
-    margin: 40px;
+    margin: 10px 20px 10px 20px;
     height: 80px;
-    width: 500px;
+    width: 450px;
     font-size: 35px;
-    text-align: left;
+    text-align: center;
     box-sizing: border-box;
+}
+.Pan-FriedAsparagus {
+    color: rgb(5, 200, 44);
+}
+.CarrotCake {
+    color: rgb(210, 123, 0);
+}
+.StrawberrySpinachSalad {
+    color: rgb(196, 0, 0)  
 }
