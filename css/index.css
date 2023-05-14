@@ -8,24 +8,30 @@ h1 {
     font-size: 100px;
     font-weight: bold;
 }
+.flexbox {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 .button {
     display: inline-block;
     color: rgb(0, 131, 154);
+    text-decoration: none;
     background-color: rgb(24, 24, 24);
-    padding: 20px;
-    margin: 10px 20px 10px 20px;
-    height: 80px;
-    width: 450px;
+    padding: 30px 20px 30px 20px;
+    margin: 10px 25px 10px 25px;
     font-size: 35px;
     text-align: center;
-    box-sizing: border-box;
 }
 .Pan-FriedAsparagus {
     color: rgb(5, 200, 44);
+    flex: 2;
 }
 .CarrotCake {
     color: rgb(210, 123, 0);
+    flex: 1;
 }
 .StrawberrySpinachSalad {
-    color: rgb(196, 0, 0)  
+    color: rgb(196, 0, 0);  
+    flex: 2;
 }
